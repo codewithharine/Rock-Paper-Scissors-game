@@ -26,6 +26,7 @@ The winner of each round will be displayed, and you can choose to continue playi
 
 
 Example
+
 Welcome to Rock, Paper, Scissors!
 Enter rock, paper, or scissors (or type 'exit' to quit): rock
 
@@ -41,6 +42,8 @@ You win!
 
 Enter rock, paper, or scissors (or type 'exit' to quit): exit
 Thank you for playing! Goodbye!
+
+
 Code Explanation
 get_user_choice(): Prompts the user to enter their choice and ensures it's valid (either "rock", "paper", "scissors", or "exit").
 get_computer_choice(): Randomly selects a choice for the computer.
